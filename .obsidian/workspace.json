@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "2a558531e38fbe28",
+    "type": "split",
+    "children": [
+      {
+        "id": "f154d2d5a6865d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8b143186f45420a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45e456f54d096cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6606b62781b1220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b4984d258c778d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4cf0020f5320d05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b7e681ac82eb426",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "953321d779d82880",
+    "type": "split",
+    "children": [
+      {
+        "id": "3815b0d26fa65502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ec83773c97d704",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22bedb015e97984a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "313a4aa6764099b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e11d9408415d3b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e657df78972fc55e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "a1b4984d258c778d",
+  "lastOpenFiles": [
+    "学习笔记/工具/obsidian笔记.md",
+    "未命名.canvas",
+    "学习笔记/工具/attachments/Pasted image 20230521234347.png",
+    "学习笔记/考试/考研/公共课/数学/高数/第07章 无穷级数.md",
+    "学习笔记/工具/attachments/Pasted image 20230521234521.png",
+    "学习笔记/工具/attachments",
+    "学习笔记/考试/考研/公共课/数学/高数/第01章 函数、极限与连续.md",
+    "学习笔记/工具",
+    "Excalidraw/Drawing 2023-05-21 23.22.07.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-21 23.21.16.excalidraw.md",
+    "Excalidraw",
+    "dev.md",
+    "学习笔记/考试/考研/公共课/数学/高数/第06章 多元函数积分学.md",
+    "学习笔记/考试/考研/公共课/数学/高数/第05章 多元函数微分学.md",
+    "学习笔记/考试/考研/公共课/数学/高数/第04章 向量代数与空间解析几何.md",
+    "学习笔记/考试/考研/公共课/数学/高数/第03章 一元函数积分学.md",
+    "学习笔记/考试/考研/公共课/数学/高数/第02章 一元函数微分学.md",
+    "当前分支：dev.md",
+    "考试/公共课/数学/attachments/Pasted image 20230521132835.png",
+    "考试/公共课/数学/attachments/Pasted image 20230521132823.png",
+    "考试/公共课/数学/attachments",
+    "Pasted image 20230521132705.png",
+    "Pasted image 20230521132434.png",
+    "README.md",
+    "考试/公共课/数学/函数.md",
+    "考试/未命名",
+    "未命名",
+    "考试/公共课/数学",
+    "考试/专业课",
+    "考试/公共课",
+    "考试",
+    "README.en.md"
+  ]
+}

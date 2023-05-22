@@ -1,0 +1,6 @@
+{
+  "promptDelete": false,
+  "trashOption": "system",
+  "attachmentFolderPath": "./attachments",
+  "newLinkFormat": "relative"
+}
